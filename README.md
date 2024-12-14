@@ -12,10 +12,10 @@ Technologies Used: HTML & CSS
 
 Output : 
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/My-Tunes/blob/5eac4f28f846a5e49db42811e6633c296ab63b40/Output/Output%201.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/My-Tunes/blob/5eac4f28f846a5e49db42811e6633c296ab63b40/Output/Output%202.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/My-Tunes/blob/5eac4f28f846a5e49db42811e6633c296ab63b40/Output/Output%203.png)
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/My-Tunes/blob/5eac4f28f846a5e49db42811e6633c296ab63b40/Output/Output%204.png)
